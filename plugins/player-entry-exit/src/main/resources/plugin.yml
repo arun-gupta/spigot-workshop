@@ -1,0 +1,4 @@
+name: player-entry-exist
+version: "1.0-SNAPSHOT"
+author: Arun Gupta
+main: org.devoxx4kids.bukkit.plugins.playerentryexit.MyPlugin

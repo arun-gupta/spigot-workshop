@@ -1,0 +1,4 @@
+= Bukkit Plugins
+
+This workspace will have the plugins created for Bukkit book.
+

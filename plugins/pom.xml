@@ -51,7 +51,7 @@
                 <artifactId>maven-antrun-plugin</artifactId>
                 <configuration>
                     <tasks>
-                        <copy file="target/${project.artifactId}-${project.version}.jar" todir="/Users/arungupta/tools/spigot/plugins"/>
+                        <copy file="target/${project.artifactId}-${project.version}.jar" todir="/Users/Aditya/Programming/spigot-server/plugins"/>
                     </tasks>
                 </configuration>
                 <executions>
@@ -67,6 +67,6 @@
     </build>
     
     <modules>
-        <module>player-entry-exit</module>
+        <module>first-plugin</module>
     </modules>
 </project>

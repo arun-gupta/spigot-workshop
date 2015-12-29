@@ -11,7 +11,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     
-    <artifactId>player-entry-exit</artifactId>
+    <artifactId>first-plugin</artifactId>
 
     <dependencies>
         <dependency>
@@ -19,5 +19,6 @@
             <artifactId>bukkit</artifactId>
         </dependency>
     </dependencies>
+    <name>first-plugin</name>
 </project>
 

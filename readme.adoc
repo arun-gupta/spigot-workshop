@@ -1,4 +1,4 @@
-= Bukkit Plugins
+= Minecraft Modding with Spigot
 
-This workspace will have the plugins created for Bukkit book.
+This workspace will have the plugins created for Spigot workshop at Devoxx4Kids.
 

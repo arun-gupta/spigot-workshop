@@ -1,7 +1,7 @@
 package org.devoxx4kids.bukkit.plugins.craftingexperience;
 
 import org.bukkit.World;
-import org.bukkit.entity.HumanEntity;
+import org.bukkit.entity.Player;
 import org.bukkit.entity.ThrownExpBottle;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -14,7 +14,7 @@ class CraftingExperienceListener implements Listener {
 
     @EventHandler
     public void giveExperience(CraftItemEvent event) {
-        HumanEntity player = event.getWhoClicked();
+        Player player = (Player) event.getWhoClicked();
         World world = player.getWorld();
         world.spawn(player.getLocation(), ThrownExpBottle.class);
     }

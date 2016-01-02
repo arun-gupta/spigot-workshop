@@ -4,7 +4,7 @@
 
     <!-- Project details -->
     <groupId>org.devoxx4kids.bukkit.plugins</groupId>
-    <artifactId>bukkit-plugins</artifactId>
+    <artifactId>spigot-plugins</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -69,4 +69,5 @@
     <modules>
         <module>first-plugin</module>
     </modules>
+    <name>spigot-plugins</name>
 </project>

@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.devoxx4kids.bukkit.plugins</groupId>
-        <artifactId>bukkit-plugins</artifactId>
+        <groupId>org.devoxx4kids.spigot.plugins</groupId>
+        <artifactId>spigot-plugins</artifactId>
         <version>1.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>

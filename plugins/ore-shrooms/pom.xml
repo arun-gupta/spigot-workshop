@@ -11,7 +11,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     
-    <artifactId>cat-arrows</artifactId>
+    <artifactId>ore-shrooms</artifactId>
 
     <dependencies>
         <dependency>
@@ -19,6 +19,6 @@
             <artifactId>bukkit</artifactId>
         </dependency>
     </dependencies>
-    <name>cat-arrows</name>
+    <name>ore-shrooms</name>
 </project>
 

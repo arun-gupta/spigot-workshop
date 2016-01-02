@@ -1,4 +1,4 @@
 name: fire-extinguisher
 version: "1.0-SNAPSHOT"
 author: Aditya Gupta
-main: org.devoxx4kids.bukkit.plugins.fireextinguisher.FireExtinguisher
+main: org.devoxx4kids.spigot.plugins.fireextinguisher.FireExtinguisher

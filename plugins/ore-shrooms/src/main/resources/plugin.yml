@@ -1,0 +1,4 @@
+name: ore-shrooms
+version: "1.0-SNAPSHOT"
+author: Aditya Gupta
+main: org.devoxx4kids.spigot.plugins.oreshrooms.OreShrooms

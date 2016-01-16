@@ -73,6 +73,7 @@
         <module>flying-pigs</module>
         <module>cat-arrows</module>
         <module>ore-shrooms</module>
+        <module>money-plugin</module>
     </modules>
     <name>spigot-plugins</name>
 </project>

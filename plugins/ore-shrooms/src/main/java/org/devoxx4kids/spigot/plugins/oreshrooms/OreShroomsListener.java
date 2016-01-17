@@ -7,9 +7,6 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.world.StructureGrowEvent;
 
-/**
- * @author Aditya Gupta
- */
 class OreShroomsListener implements Listener {
 
     @EventHandler

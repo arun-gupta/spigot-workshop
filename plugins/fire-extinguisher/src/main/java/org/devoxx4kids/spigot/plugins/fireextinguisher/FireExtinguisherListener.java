@@ -13,9 +13,6 @@ import org.bukkit.event.entity.ProjectileHitEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.util.Vector;
 
-/**
- * @author Aditya Gupta
- */
 class FireExtinguisherListener implements Listener {
 
     @EventHandler

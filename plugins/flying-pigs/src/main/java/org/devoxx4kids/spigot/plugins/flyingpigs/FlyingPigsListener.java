@@ -10,9 +10,6 @@ import org.bukkit.event.entity.EntityDeathEvent;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
-/**
- * @author Aditya Gupta
- */
 class FlyingPigsListener implements Listener {
 
     @EventHandler

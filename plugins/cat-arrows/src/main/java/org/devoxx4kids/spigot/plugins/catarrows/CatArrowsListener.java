@@ -10,9 +10,6 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityShootBowEvent;
 import org.bukkit.inventory.ItemStack;
 
-/**
- * @author Aditya Gupta
- */
 class CatArrowsListener implements Listener {
 
     @EventHandler
